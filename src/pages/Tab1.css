@@ -1,0 +1,13 @@
+.titulo {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 45px;
+}
+
+.titulo-ionic {
+    font-size: 27px;
+}
+
+.login {
+    margin: 12px;
+}

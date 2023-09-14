@@ -1,0 +1,41 @@
+.titulo {
+    margin-top: 35px;
+    font-size: 45px;
+}
+
+div {
+    text-align: center;
+}
+
+.subtitulo {
+    text-align: center;
+    font-size: 25px;
+}
+
+.subsubtitulo {
+    margin: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.input {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.titulo-ionic {
+    font-size: 27px;
+}
+
+.cadastro {
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.login {
+    border-radius: 10px;
+}
+
+ion-content::part(background) {
+    background-image: url(./images/computer.png);
+}
